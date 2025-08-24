@@ -30,7 +30,7 @@ This interactive Excel dashboard analyzes global sales data from 2013–2014, he
 - Seasonal sales peaks in October & December.
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](assets/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ## 📂 How to Use
 1. Download the `.xlsx` file from this repository.
